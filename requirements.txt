@@ -1,0 +1,4 @@
+pymongo
+langchain
+ollama
+langchain-community
