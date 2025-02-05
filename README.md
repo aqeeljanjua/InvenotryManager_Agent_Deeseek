@@ -1,6 +1,21 @@
-# Offline AI Assistant using DeepSeek and Ollama
+# Offline AI Agent with Ollama & DeepSeek
 
-An Offline intelligent inventory management system that uses LLMs (Large Language Models) to process natural language queries and manage inventory data through MongoDB.
+An offline-capable AI agent that leverages DeepSeek and Llama2 models through Ollama for natural language processing and intelligent inventory management, with MongoDB integration for data persistence.
+
+## Overview
+This project demonstrates an intelligent system that can:
+- Process natural language queries offline using local LLM models
+- Manage inventory data through MongoDB
+- Handle complex business logic without internet connectivity
+- Maintain conversation context and chat history
+- Generate dynamic database queries from natural language input
+
+## Key Components
+- **Ollama Integration**: Local model management and inference
+- **DeepSeek Model**: Primary language model for query processing
+- **MongoDB Backend**: Persistent data storage and retrieval
+- **Query Processing**: Natural language to database query conversion
+- **Session Management**: Maintains context across conversations
 
 ## Developer
 Muhammad Aqeel Yasin  
